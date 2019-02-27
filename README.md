@@ -1,5 +1,7 @@
 # Bookshelf app for Java
 
+GCP w/Eclipse
+
 getting-started-java.git clone (https://github.com/GoogleCloudPlatform/getting-started-java.git)
 
 Tutorial (https://cloud.google.com/java/getting-started/tutorial-app)
