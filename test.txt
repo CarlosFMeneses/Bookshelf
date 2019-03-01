@@ -1,0 +1,2 @@
+Git verified user test
+Added GPG to personal GitHub settings
