@@ -1,3 +1,0 @@
-Git verified user test
-Added GPG to personal GitHub settings, to
-gpg keys and to git config
